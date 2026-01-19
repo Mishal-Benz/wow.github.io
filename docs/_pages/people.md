@@ -5,12 +5,16 @@ layout: single
 ---
 
 ## Principal Investigator
-- **Dr. Jane Doe** — PI  
-  Email: jane.doe@university.edu
+<img src="/assets/images/mgoetz.jpg" alt="Dr. Markus Götz" width="150" style="float:left; margin-right:10px;" />
+
+**Dr.  Markus Götz** — PI  
+Email: markus.goetz@kit.edu
+
+## PostDocs
+- 123
+- 456
+
 
 ## PhD Students
-- John Smith  
-- Alice Johnson
-
-## MSc Students
-- Bob Lee
+- ABC
+- XYZ
