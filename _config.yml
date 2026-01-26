@@ -21,7 +21,7 @@ title                    : "A World model of Our World (WOW)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 description              : "Website for Project WOW"
-url                      : "https://github.com/Mishal-Benz"
+url                      : "https://mishal-benz.github.io"
 baseurl                  : "/wow.github.io" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 #teaser                   : /assets/images/WOW-Teaser.jpg
@@ -115,7 +115,7 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - -posts
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
